@@ -1,0 +1,11 @@
+Model Information:
+* title:	Leg foot
+* source:	https://sketchfab.com/3d-models/leg-foot-c045c1887ebe4521a8e51a967cb9818f
+* author:	thunk3d.scanner (https://sketchfab.com/thunk3d.scanner)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Leg foot" (https://sketchfab.com/3d-models/leg-foot-c045c1887ebe4521a8e51a967cb9818f) by thunk3d.scanner (https://sketchfab.com/thunk3d.scanner) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
